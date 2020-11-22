@@ -33,12 +33,12 @@ module.exports = {
       },
       {
         name: `Design`,
-        link: `https://brettstevenson.design/`,
+        link: `https://ali26.design/`,
         external: true,
       },
       {
         name: `Blog`,
-        link: `/blog/`,
+        link: `http://ali26-blog.netlify.app/`,
         external: false,
       },
       {

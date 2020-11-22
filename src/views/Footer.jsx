@@ -113,14 +113,14 @@ const Footer = ({ offset, speed }) => (
     </DividerStatic>
     <FooterWrapper>
       <SocialList>
-        <li><a href='https://github.com/tterb' aria-label='GitHub'><FontAwesomeIcon icon={faGithub} /></a></li>
-        <li><a href='https://deviantart.com/bstevenson' aria-label='DeviantArt'><FontAwesomeIcon icon={faDeviantart} /></a></li>
-        <li><a href='https://twitter.com/bstevensondev' aria-label='Twitter'><FontAwesomeIcon icon={faTwitter} /></a></li>
-        <li><a href='https://dribbble.com/tterb' aria-label='Dribbble'><FontAwesomeIcon icon={faDribbble} /></a></li>
-        <li><a href='https://linkedin.com/in/brett-stevenson/' aria-label='LinkedIn'><FontAwesomeIcon icon={faLinkedinIn} /></a></li>
+        <li><a href='https://github.com/ali26-dev' aria-label='GitHub'><FontAwesomeIcon icon={faGithub} /></a></li>
+        <li><a href='#' aria-label='DeviantArt'><FontAwesomeIcon icon={faDeviantart} /></a></li>
+        <li><a href='https://twitter.com/ali26_codes' aria-label='Twitter'><FontAwesomeIcon icon={faTwitter} /></a></li>
+        <li><a href='#' aria-label='Dribbble'><FontAwesomeIcon icon={faDribbble} /></a></li>
+        <li><a href='#' aria-label='LinkedIn'><FontAwesomeIcon icon={faLinkedinIn} /></a></li>
       </SocialList>
-      &copy; 2019 by &nbsp;
-      <PageLink to='/'>Brett Stevenson</PageLink>
+      &copy; 2020 by &nbsp;
+      <PageLink to='/'>Ali26</PageLink>
       <FontAwesomeIcon className='separator' icon={faCircle} />
       Powered by<a href='https://www.gatsbyjs.org/' className='gatsby-icon' aria-label='Visit gatsbyjs.org'><GatsbyIcon /></a>
     </FooterWrapper>

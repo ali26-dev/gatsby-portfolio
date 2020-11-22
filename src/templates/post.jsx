@@ -97,7 +97,7 @@ export const postQuery = graphql`
         }
       }
     }
-    avatar: file(relativePath: { eq: "me.png" }) {
+    avatar: file(relativePath: { eq: "me.jpeg" }) {
       childImageSharp {
         fixed(width: 250, height: 250) {
           ...GatsbyImageSharpFixed_withWebp

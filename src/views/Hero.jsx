@@ -88,7 +88,7 @@ const ScrollArrow = () => (
 const Hero = ({ offset }) => (
   <Container speed={0.7} offset={offset}>
     <Wrapper>
-      <Title>Hello,<br />I'm Brett<br />Stevenson<span className='accent'>.</span></Title>
+      <Title>Hello, I'm<br />Mohammad<br />Ali<span className='accent'>.</span></Title>
       <Subtitle>
         <Typed
           style={typedStyle} strings={[
