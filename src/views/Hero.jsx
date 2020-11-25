@@ -94,7 +94,6 @@ const Hero = ({ offset }) => (
           style={typedStyle} strings={[
             'I am a Software Engineer',
             'I am a UI/UX Designer',
-            'I am a Code Monkey',
             'I am a Full-Stack Developer',
             '. . .^1000',
             'I like to build stuff<span class="accent-text">.</span>',

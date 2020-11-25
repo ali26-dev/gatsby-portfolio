@@ -15,16 +15,16 @@ const githubToken = process.env.GITHUB_TOKEN
 module.exports = {
   /* General Information */
   siteMetadata: {
-    title: `Brett Stevenson`,
+    title: `Mohammad Ali`,
     description: `Full-Stack Software Developer, Designer, and Student`,
     siteUrl: config.siteUrl + pathPrefix,
-    author: `Brett Stevenson`,
+    author: `Mohammad Ali`,
     keywords: [
-      `brett stevenson`, `full-stack`, `software`, `developer`,
+      `ali26`, `full-stack`, `software`, `developer`,
       `design`, `portfolio`, `blog`, `python`, `javascript`,
       `react`, `gatsby`, `website optimization`,
     ],
-    disqusShortname: `tterb-gatsby`,
+    disqusShortname: `ali26`,
     menuLinks: [
       {
         name: `Home`,
@@ -39,7 +39,7 @@ module.exports = {
       {
         name: `Blog`,
         link: `http://ali26-blog.netlify.app/`,
-        external: false,
+        external: true,
       },
       {
         name: `Contact`,
@@ -68,7 +68,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-disqus`,
       options: {
-        shortname: `tterb-gatsby`,
+        shortname: `ali26-gatsby`,
       },
     },
     {
