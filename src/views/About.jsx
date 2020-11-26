@@ -53,7 +53,7 @@ const About = ({ offset, factor }) => {
           <Cube color='blue' />
           <AboutTitle>About</AboutTitle>
           <AboutHero>
-            <Avatar fluid={avatar.fluid} alt='Mohammaed Ali' />
+            <Avatar fluid={avatar.fluid} alt='Mohammad Ali' />
             <AboutSub>
               The English language can not fully capture the depth and complexity of my thoughts. So I choose to incorporate
               Emojis into my speech to better express myself 😜
