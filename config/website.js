@@ -5,7 +5,7 @@ module.exports = {
 
   siteTitle: `Ali26 - Software Developer`, // Navigation and Site Title
   siteTitleAlt: `Mohammad Ali - Full-Stack Software Developer, Designer, and Student`, // Alternative Site title for SEO
-  siteTitleShort: `Ali-26`, // short_name for manifest
+  siteTitleShort: `Ali26`, // short_name for manifest
   siteHeadline: `Full-Stack Software Developer, Designer, and Student`, // Headline for schema.org JSONLD
   siteUrl: `https://tterb-gatsby.netlify.com`, // Domain of your site. No trailing slash!
   siteKeywords: [`ali26`, `full-stack`, `software`, `developer`, `design`, `portfolio`, `blog`, `python`, `javascript`, `react`, `gatsby`, `website optimization`],
@@ -25,8 +25,8 @@ module.exports = {
   userTwitter: `@bstevensondev`, // Twitter Username
   // ogSiteName: 'cara', // Facebook Site Name
   // ogLanguage: 'en_US', // Facebook Language
-  googleAnalyticsID: `UA-82760104-1`, // Google Analytics ID
-  googleOptimizeID: `GTM-P9NNBQ3`, // Google Optimize container ID
+  googleAnalyticsID: `UA-82767104-1`, // Google Analytics ID
+  googleOptimizeID: `GTM-P9mNBQ3`, // Google Optimize container ID
   // Manifest and Progress color
   themeColor: tailwind.colors.green,
   backgroundColor: tailwind.colors.blue,
