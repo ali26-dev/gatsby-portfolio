@@ -46,8 +46,8 @@ const Contact = (props) => {
         <ContactTitle>Get in touch</ContactTitle>
         <ContactText>
           <PageLink to='/contact'>Say Hello</PageLink> or find me on other platforms:{' '}
-          <a href='https://github.com/tterb' aria-label='GitHub' target='_blank' rel='noopener noreferrer'>GitHub</a> &{' '}
-          <a href='https://www.dribbble.com/tterb/' aria-label='Dribbble' target='_blank' rel='noopener noreferrer'>Dribbble</a>
+          <a href='https://github.com/ali26-dev' aria-label='GitHub' target='_blank' rel='noopener noreferrer'>GitHub</a> &{' '}
+          <a href='https://discord.gg/g9P4yHbNtq' aria-label='Discord' target='_blank' rel='noopener noreferrer'>Discord</a>
         </ContactText>
       </Inner>
     </Content>

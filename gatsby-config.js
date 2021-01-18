@@ -15,16 +15,16 @@ const githubToken = process.env.GITHUB_TOKEN
 module.exports = {
   /* General Information */
   siteMetadata: {
-    title: `Brett Stevenson`,
+    title: `Ali26`,
     description: `Full-Stack Software Developer, Designer, and Student`,
     siteUrl: config.siteUrl + pathPrefix,
-    author: `Brett Stevenson`,
+    author: `Mohammad Ali`,
     keywords: [
-      `brett stevenson`, `full-stack`, `software`, `developer`,
+      `ali26`, `full-stack`, `software`, `developer`,
       `design`, `portfolio`, `blog`, `python`, `javascript`,
       `react`, `gatsby`, `website optimization`,
     ],
-    disqusShortname: `tterb-gatsby`,
+    disqusShortname: `ali26-dev`,
     menuLinks: [
       {
         name: `Home`,
@@ -33,7 +33,7 @@ module.exports = {
       },
       {
         name: `Design`,
-        link: `https://brettstevenson.design/`,
+        link: `https://ali26.design/`,
         external: true,
       },
       {
@@ -68,7 +68,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-disqus`,
       options: {
-        shortname: `tterb-gatsby`,
+        shortname: `ali26-dev`,
       },
     },
     {
