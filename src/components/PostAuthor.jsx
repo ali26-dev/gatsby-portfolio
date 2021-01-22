@@ -73,7 +73,7 @@ const PostAuthor = ({ author }) => (
         <li><a href={author.twitter} target='_blank' rel='noopener noreferrer'><FontAwesomeIcon icon={faTwitter} /></a></li>
         <li><a href={author.dribbble} target='_blank' rel='noopener noreferrer'><FontAwesomeIcon icon={faDribbble} /></a></li>
         <li><a href={author.linkedIn} target='_blank' rel='noopener noreferrer'><FontAwesomeIcon icon={faLinkedinIn} /></a></li>
-        <li><a href='https://brettstevenson.io/contact' target='_blank' rel='noopener noreferrer'><FontAwesomeIcon icon={faEnvelope} /></a></li>
+        <li><a href='https://ali26.dev/contact' target='_blank' rel='noopener noreferrer'><FontAwesomeIcon icon={faEnvelope} /></a></li>
       </AuthorLinks>
     </AuthorText>
   </Wrapper>

@@ -2,8 +2,8 @@
   "name": "gatsby-portfolio",
   "description": "A portfolio website created using Gatsby and Contentful",
   "version": "1.0.0",
-  "author": "Brett Stevenson <bstevensondev@gmail.com> (https://brettstevenson.io)",
-  "homepage": "https://tterb-gatsby.netlify.com",
+  "author": "Ali26 <ali26@tuta.io> (https://ali26.dev)",
+  "homepage": "https://ali26.netlify.com",
   "license": "MIT",
   "scripts": {
     "dev": "gatsby develop -o",
@@ -130,11 +130,11 @@
     "yargs-parser": "^13.1.2"
   },
   "repository": {
-    "url": "https://github.com/tterb/gatsby-portfolio",
+    "url": "https://github.com/ali26-dev/gatsby-portfolio",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/tterb/gatsby-portfolio/issues"
+    "url": "https://github.com/ali26-dev/gatsby-portfolio/issues"
   },
   "standard": {
     "parser": "babel-eslint"
