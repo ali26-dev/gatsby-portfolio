@@ -55,7 +55,7 @@ const About = ({ offset, factor }) => {
           <AboutHero>
             <Avatar fluid={avatar.fluid} alt='Mohammad Ali' />
             <AboutSub>
-            I am Mohammad Ali, Software Engineer & a Business Owner. I help businesses and start-ups with building out efficient web applications using mainly Django & JavaScript.
+            I help businesses and start-ups with building out efficient web applications using mainly Django & JavaScript.
             </AboutSub>
           </AboutHero>
           <AboutDesc>
