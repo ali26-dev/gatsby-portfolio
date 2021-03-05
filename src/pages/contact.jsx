@@ -66,7 +66,7 @@ class ContactForm extends React.Component {
         <h1>{ Elink }</h1>
         <input type="hidden" name="_url" value="https://ali26.dev/contact"></input>
         <input type="hidden" name="_captcha" value="false"></input>
-        <input type="hidden" name="_next" value="https://yourdomain.co/thanks.html"></input>
+        <input type="hidden" name="_next" value="https://ali26.dev/thankyou"></input>
 
       </Form>
     )
