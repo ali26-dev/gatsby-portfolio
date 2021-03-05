@@ -2,7 +2,7 @@ import React from 'react'
 // Components
 import Layout from '../components/Layout'
 import Header from '../components/Header'
-import { Form, Input, Message, Button } from '../components/Forms'
+import { Form, Input, Message, Button, Elink } from '../components/Forms'
 // Elements
 import Content from '../elements/Content'
 import { BigTitle } from '../elements/Titles'
@@ -63,6 +63,8 @@ class ContactForm extends React.Component {
           value={this.state.message}
           onChange={this.handleInputChange} />
         <Button value={'Submit'} />
+        <h1>{ Elink }</h1>
+        <input type="hidden" name="_url" value="https://ali26.dev/contact"></input>
       </Form>
     )
   }
