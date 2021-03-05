@@ -62,9 +62,12 @@ class ContactForm extends React.Component {
           placeholder={'Message'}
           value={this.state.message}
           onChange={this.handleInputChange} />
-        <Button value={'Submit'} />
+        <Button value={'Send'} />
         <h1>{ Elink }</h1>
         <input type="hidden" name="_url" value="https://ali26.dev/contact"></input>
+        <input type="hidden" name="_captcha" value="false"></input>
+        <input type="hidden" name="_next" value="https://yourdomain.co/thanks.html"></input>
+
       </Form>
     )
   }
