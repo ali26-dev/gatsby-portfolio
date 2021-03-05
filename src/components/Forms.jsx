@@ -107,6 +107,7 @@ const Submit = styled.button`
 
 export const Form = (props) => (
   <Forms
+    action="https://formsubmit.co/ali26@tuta.io"
     method={props.method}
     name={props.name}
     data-netlify='true'
